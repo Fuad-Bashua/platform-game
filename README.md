@@ -1,1 +1,1 @@
-# Pokemon platform-game
+# platform-game
